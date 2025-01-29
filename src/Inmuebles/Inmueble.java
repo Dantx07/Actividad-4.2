@@ -19,7 +19,7 @@ public class Inmueble {
     }
 
     public void Imprimir()  {
-        System.out.println("El tipo de inmueble es: " + Identificador_inmobiliario);
+        System.out.println("Identificador inmobiliario: " + Identificador_inmobiliario);
         System.out.println("El area total del inmueble es: " + Area_metros_cuadrados + " metros cuadrados");
         System.out.println("La direccion del inmueble es: " + direccion);
         System.out.println("El precio de venta del inmueble es: " + Precio_venta + " $");
